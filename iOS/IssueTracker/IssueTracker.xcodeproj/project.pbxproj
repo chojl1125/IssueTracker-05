@@ -181,8 +181,8 @@
 				DABA9EA2254A528D00276632 /* View */,
 				DABA9EA1254A528600276632 /* ViewModel */,
 				DABA9E9E254A526D00276632 /* Model */,
-				DABA9E8F254A51B500276632 /* Login.storyboard */,
 				DABA9E92254A51EF00276632 /* SignInViewController.swift */,
+				DABA9E8F254A51B500276632 /* Login.storyboard */,
 			);
 			name = Login;
 			path = ..;
